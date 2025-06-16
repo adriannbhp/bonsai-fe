@@ -284,8 +284,8 @@ export default function UploadBuktiBayar() {
                   <th className="border px-2 py-1">Sender</th>
                   <th className="border px-2 py-1">Beneficiary</th>
                   <th className="border px-2 py-1">Value Date</th>
-                  <th className="border px-2 py-1">Remark</th>
                   <th className="border px-2 py-1">Invoice</th>
+                  <th className="border px-2 py-1">Remark</th>
                   <th className="border px-2 py-1">Customer Ref</th>
                   <th className="border px-2 py-1">Transaction ID</th>
                   <th className="border px-2 py-1">Type</th>
