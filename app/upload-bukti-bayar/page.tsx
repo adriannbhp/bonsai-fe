@@ -214,10 +214,10 @@ export default function UploadBuktiBayar() {
                   <thead>
                     <tr className="bg-[#e3f0fc]">
                       <th className="border px-2 py-1">File</th>
-                      <th className="border px-2 py-1">Remark</th>
+                      <th className="border px-2 py-1">Reference Number</th>
                       <th className="border px-2 py-1">Bank</th>
                       <th className="border px-2 py-1">Amount</th>
-                      <th className="border px-2 py-1">Invoice</th>
+                      <th className="border px-2 py-1">Remark</th>
                       <th className="border px-2 py-1">File URL</th>
                     </tr>
                   </thead>
@@ -284,7 +284,7 @@ export default function UploadBuktiBayar() {
                   <th className="border px-2 py-1">Sender</th>
                   <th className="border px-2 py-1">Beneficiary</th>
                   <th className="border px-2 py-1">Value Date</th>
-                  <th className="border px-2 py-1">Invoice</th>
+                  <th className="border px-2 py-1">Reference Number</th>
                   <th className="border px-2 py-1">Remark</th>
                   <th className="border px-2 py-1">Customer Ref</th>
                   <th className="border px-2 py-1">Transaction ID</th>
