@@ -225,7 +225,7 @@ export default function UploadBuktiBayar() {
                     {response.results.map((item: any, idx: number) => (
                       <tr key={idx}>
                         <td className="border px-2 py-1">{item.data?.file_name}</td>
-                        <td className="border px-2 py-1">{item.data?.remark}</td>
+                        <td className="border px-2 py-1">{item.data?.referenceNumber}</td>
                         <td className="border px-2 py-1">{item.data?.bank}</td>
                         <td className="border px-2 py-1">{item.data?.amount.toLocaleString()}</td>
                         <td className="border px-2 py-1">{item.data?.remark}</td>
